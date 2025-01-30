@@ -1,0 +1,40 @@
+#A column-switching two-dimensional liquid chromatography - high resolution/triple quadrupole dual mass spectrometry system for simultaneously untargeted metabolome and targeted exposome analyses
+
+## Abstract
+Metabolome-exposome association studies (mEWAS) demands high-coverage and high-sensitivity analytical methods for metabolites and exposures with diverse chemical properties and concentrations. Here, we present an integrated column-switching two-dimensional liquid chromatography (2DLC) - high resolution/triple quadrupole dual mass spectrometry (MS) method, achieving simultaneously untargeted metabolome and targeted exposome analyses including 598 chemical exposures in a single run. Polar and non-polar compounds with log P ranging from -8 to 15 were separated without unretained compounds in the dead time. Benchmarked against biological matrices, analyte coverage increased by 35-104% over one-dimensional LC method. Highly sensitive limits of detection with 0.001-1 μg/mL for >90% metabolites and 0.001-1 ng/mL for >90% chemical exposures were obtained, matching the concentration difference between the metabolome and exposome in human blood. The method was demonstrated in patients with chronic diseases, showing the feasibility of establishing simultaneously untargeted metabolome and targeted exposome analytical methods for mEWAS by integrating 2DLC-dual MS techniques.
+The R codes and related example data for statistical analysis and figure production have been deposited to the GitHub (https://github.com/wyt2025/2DLC-Dual-MS-Method.git). 
+
+## Which R packages are used in this paper?
+### R package “Binary logistic regression”for Binary logistic regression analysis  
+Code: 2DLC-Dual-MS-Method.git/Code/Binary logistic regression.R  
+Example file:  
+2DLC-Dual-MS-Method.git/Sample/Binary logistic regression-input-demo.xlsx  
+2DLC-Dual-MS-Method.git/Sample/Binary logistic regression-output-demo.xlsx  
+
+### R package “MedEffectAnalysis”for Mediation effect analysis  
+Code: 2DLC-Dual-MS-Method.git/Code/MedEffectAnalysis.R  
+Example file:  
+2DLC-Dual-MS-Method.git/Sample/MedEffect-input-demo.xlsx  
+2DLC-Dual-MS-Method.git/Sample/Binary MedEffect-output-demo.txt 
+
+## Which codes used for plot in this paper?
+### Donut Bar Chart  
+Code: 
+2DLC-Dual-MS-Method.git/Code/Donut Bar Chart/Donut Bar Chart.R  
+2DLC-Dual-MS-Method.git/Code/Donut Bar Chart/.Rhistory 
+Example file: 2DLC-Dual-MS-Method.git/Sample/Donut Bar Chart-data.tsv
+Result figure: 2DLC-Dual-MS-Method.git/Figure/Donut Bar Chart-demo.png
+
+### Ring Network Diagram
+Code: 
+2DLC-Dual-MS-Method.git/Code/Ring Network Diagram.R
+Example file: 
+2DLC-Dual-MS-Method.git/Sample/edges.csv
+2DLC-Dual-MS-Method.git/Sample/nodes.csv
+Result figure: 2DLC-Dual-MS-Method.git/Figure/Ring Network Diagram-demo.png
+
+### Sunrise plot 
+Code: 
+2DLC-Dual-MS-Method.git/Code/Sunrise plot/Sunrise plot.R  
+2DLC-Dual-MS-Method.git/Code/Sunrise plot/pie_donut.R
+Result figure: 2DLC-Dual-MS-Method.git/Figure/Sunrise plot-demo.png

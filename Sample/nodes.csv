@@ -1,0 +1,134 @@
+node_name,node_branch,population,GNI,node_level
+4-Nitro-3-cresol,Pesticides,100,106140,country
+Acetamiprid,Pesticides,1.265822785,103630,country
+Boscalid,Pesticides,1.265822785,92200,country
+Bromacil,Pesticides,5.063291139,88120,country
+CCIM,Pesticides,1.265822785,76270,country
+Chlorbenzuron,Pesticides,8.860759494,75990,country
+Chlorferone,Pesticides,88.60759494,64540,country
+Chlorothalonil,Pesticides,21.51898734,61610,country
+Crufomate,Pesticides,5.063291139,61310,country
+Cycluron,Pesticides,1.265822785,55200,country
+Dazomet,Pesticides,100,55150,country
+Difenoconazole,Pesticides,18.98734177,51890,country
+Dimefuron,Pesticides,2.53164557,51630,country
+Diphenamid,Pesticides,15.18987342,49670,country
+Fensulfothion-Sulfone,Pesticides,2.53164557,49300,country
+Fipronil,Pesticides,100,48420,country
+Fipronil Desulfinyl,Pesticides,40.50632911,47640,country
+Fipronil sulfone,Pesticides,98.73417722,46350,country
+Fipronil-sulfide,Pesticides,59.49367089,47260,country
+Fluazuron,Pesticides,10.12658228,46550,country
+Flufenoxuron,Pesticides,1.265822785,44600,country
+Fluopyram,Pesticides,1.265822785,43430,country
+Fluxapyroxad,Pesticides,1.265822785,42960,country
+Halosulfuron-methyl,Pesticides,22.78481013,42000,country
+Isocarbophos,Pesticides,1.265822785,43270,country
+Isofenphos oxon,Pesticides,7.594936709,41070,country
+Isonoruron,Pesticides,98.73417722,40320,country
+Isopyrazam,Pesticides,100,37320,country
+Isoxaflutole,Pesticides,1.265822785,35320,country
+Lufenuron,Pesticides,93.67088608,34270,country
+Matrine,Pesticides,3.797468354,29440,country
+Mecoprop,Pesticides,1.265822785,27090,country
+Mesulfenfos,Pesticides,45.56962025,26370,country
+Mevinphos,Pesticides,24.05063291,25140,country
+Myclobutanil,Pesticides,2.53164557,23580,country
+Paclobutrazol,Pesticides,1.265822785,22680,country
+Prochloraz desimidazole-formylamino,Pesticides,2.53164557,21360,country
+Prochloraz-desimidazole-amino,Pesticides,2.53164557,21060,country
+Pyraclostrobin,Pesticides,3.797468354,20980,country
+Quinoxyfen,Pesticides,55.69620253,21000,country
+Rabenzazole,Pesticides,48.10126582,20070,country
+Resmethrin,Pesticides,1.265822785,19310,country
+Sethoxydim,Pesticides,1.265822785,19030,country
+Siduron,Pesticides,1.265822785,18370,country
+Simeconazole,Pesticides,1.265822785,16870,country
+Spirotetramat-enol,Pesticides,1.265822785,17750,country
+Sulfoxaflor,Pesticides,5.063291139,16350,country
+Tebuconazole,Pesticides,2.53164557,15430,country
+Tebufenozide,Pesticides,65.82278481,15280,country
+Terbucarb,Pesticides,50.63291139,15310,country
+Thiacloprid,Pesticides,98.73417722,14920,country
+Thiobencarb,Pesticides,1.265822785,14910,country
+Trioxone,Pesticides,2.53164557,14100,country
+17-OHP,Drugs,93.67088608,13690,country
+17-OHPC,Drugs,77.21518987,13480,country
+Amlodipine besylate,Drugs,1.265822785,13340,country
+Androstenedione,Drugs,100,13300,country
+Azithromycin,Drugs,5.063291139,13220,country
+Betaxolol,Drugs,3.797468354,12980,country
+Brombuterol,Drugs,1.265822785,12500,country
+Butylparaben,Drugs,40.50632911,11850,country
+Carbamazepine,Drugs,1.265822785,11530,country
+Cetirizine,Drugs,2.53164557,11130,country
+Chlorpheniramine,Drugs,12.65822785,11120,country
+Cyclamic acid,Drugs,100,11110,country
+Desloratadine,Drugs,1.265822785,10830,country
+Diclofenac Acid,Drugs,15.18987342,10210,country
+Diphenhydramine,Drugs,3.797468354,10120,country
+Erythromycin,Drugs,2.53164557,10030,country
+Estrone,Drugs,1.265822785,9950,country
+Flunixin,Drugs,18.98734177,9870,country
+Ganciclovir,Drugs,3.797468354,9720,country
+Genistein,Drugs,16.4556962,9630,country
+Glyburide,Drugs,1.265822785,9520,country
+Hexestrol ,Drugs,1.265822785,8020,country
+Irbesartan,Drugs,2.53164557,7970,country
+Isobutylparaben,Drugs,16.4556962,7910,country
+Ketorolac,Drugs,70.88607595,7820,country
+Loratadine,Drugs,3.797468354,7620,country
+Mebendazole-amine,Drugs,1.265822785,7590,country
+Metformin,Drugs,2.53164557,7400,country
+Methicillin,Drugs,2.53164557,7340,country
+Moxifloxacin,Drugs,1.265822785,7320,country
+Nicarbazin,Drugs,3.797468354,7260,country
+Nicotine,Drugs,100,7240,country
+Nifedipine,Drugs,2.53164557,6930,country
+Nitrendipine,Drugs,1.265822785,6800,country
+Norfloxacin,Drugs,5.063291139,6610,country
+Noscapine,Drugs,2.53164557,6500,country
+Phenylbutazone,Drugs,2.53164557,6410,country
+Pioglitazone,Drugs,10.12658228,6360,country
+Prednisolone,Drugs,1.265822785,7120,country
+Progesterone,Drugs,13.92405063,6090,country
+Promethazine,Drugs,1.265822785,6040,country
+Quinocetone,Drugs,3.797468354,5820,country
+Roxithromycin,Drugs,10.12658228,5780,country
+Salmeterol,Drugs,1.265822785,5720,country
+Sulfanitran,Drugs,1.265822785,5630,country
+Sulfoaildenafil,Drugs,1.265822785,5490,country
+Tadalafil,Drugs,1.265822785,5160,country
+Testosterone,Drugs,82.27848101,5150,country
+Tolbutamide,Drugs,1.265822785,5150,country
+Trimethoprim,Drugs,1.265822785,4870,country
+5-Oxo-MEHP,Pollutants,55.69620253,4760,country
+6:2 diPAP,Pollutants,98.73417722,4350,country
+9Cl-PF3ONS,Pollutants,100,4450,country
+Avobenzone,Pollutants,31.64556962,4400,country
+BADP,Pollutants,5.063291139,4390,country
+BHT alcohol,Pollutants,97.46835443,4280,country
+Bis(2-butoxyethyl) phthalate,Pollutants,3.797468354,4260,country
+DETX,Pollutants,35.44303797,4230,country
+Diethyltoluamide,Pollutants,55.69620253,4060,country
+Dinoseb,Pollutants,1.265822785,4020,country
+DNOC,Pollutants,98.73417722,3990,country
+Michler's ethyl ketone,Pollutants,3.797468354,3940,country
+Monoethyl phthalate,Pollutants,21.51898734,3920,country
+PFDA,Pollutants,91.13924051,3720,country
+PFDoA,Pollutants,82.27848101,3630,country
+PFHpA,Pollutants,100,3560,country
+PFHps,Pollutants,62.02531646,3550,country
+PFHxS,Pollutants,100,3500,country
+PFNA,Pollutants,98.73417722,3460,country
+PFOA,Pollutants,100,3450,country
+PFOS,Pollutants,54.43037975,3430,country
+PFTrDA,Pollutants,92.40506329,3200,country
+PFUdA,Pollutants,100,3160,country
+RhodamineB,Pollutants,58.2278481,3070,country
+Sulisobenzone,Pollutants,2.53164557,3060,country
+tBPDP,Pollutants,68.35443038,3050,country
+Pesticides,Pesticides,1435.443038,3050,continent
+Drugs,Drugs,854.4303797,3050,continent
+Pollutants,Pollutants,1618.987342,3050,continent
+Exposome,Exposome,3908.860759,2743020,World
